@@ -1,2 +1,2 @@
-# praktikum-git
+# praktikum-git1
 uji coba Git
